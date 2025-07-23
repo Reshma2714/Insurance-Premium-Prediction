@@ -97,4 +97,7 @@ The dataset contains the following features:
 - Matplotlib / Seaborn (for EDA)
 
 ---
+## 📸 Streamlit UI
+
+![Health Insurance Predictor](./Streamlit_UI.png)
 
