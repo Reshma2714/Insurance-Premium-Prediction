@@ -1,4 +1,4 @@
-# 🛡️ Insurance Premium Price Prediction 💸  
+# 🛡️ Health Insurance Predictor 💸  
 
 ## 📌 Project Overview
 
